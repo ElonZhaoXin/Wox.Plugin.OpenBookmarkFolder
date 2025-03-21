@@ -1,0 +1,12 @@
+{
+    "ID":"DB66BE80D98B11EF903BE4A471F845E8",
+    "ActionKeyword":"d",
+    "Name":"BookmarksFolderOpener",
+    "Description":"A python plugin to open the chrome bookmarks folder",
+    "Author":"zhaobaimei",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/ElonZhaoXin/Wox.Plugin.OpenBookmarkFolder",
+    "IcoPath":"Images\\app.ico",
+    "ExecuteFileName":"main.py"
+}
